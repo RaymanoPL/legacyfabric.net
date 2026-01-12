@@ -410,6 +410,15 @@ const mods = [
         "versions": [ "1.8.9" ]
     },
     {
+        "name": "legacy-lwjgl3",
+        "links": {
+            "github": "https://github.com/moehreag/legacy-lwjgl3",
+            "modrinth": "https://modrinth.com/mod/moehreag-legacy-lwjgl3",
+        },
+        "working": true,
+        "versions": [ "1.12.2", "1.11.2", "1.10.2", "1.9.4", "1.8.9" ]
+    },
+    {
         "name": "LetMeSpeak",
         "links": {
             "github": "https://github.com/spacebytee/LetMeSpeak",
